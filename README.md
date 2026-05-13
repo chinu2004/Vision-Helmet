@@ -5,9 +5,7 @@
 # Must Read 
 -**⭐Pi02w Only for Budget**
 -**⭐⭐⭐ Suggested: Pi 5 or Advanced Drastically improve performance**
-
--
--
+ 
 ## Project Overview
 
 **Frank Vision Helmet** is a groundbreaking accessibility device that combines cutting-edge AI, real-time computer vision, and intelligent hardware to provide independence and empowerment to visually impaired individuals. 
@@ -56,7 +54,7 @@
 - Ready to deploy on Raspberry Pi Zero W
 
 #### **Prototype**
-**Prototype image**
+**Contain Prototype images**
 - images of vision helmet
  
 

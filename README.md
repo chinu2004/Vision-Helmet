@@ -2,15 +2,17 @@
 
 > **AI-Powered Vision Assistant for the Blind & Visually Impaired**  
 
-
 # Must Read 
+-**⭐Pi02w Only for Budget**
+-**⭐⭐⭐ Suggested: Pi 5 or Advanced Drastically improve performance**
+
+-
+-
 ## Project Overview
 
 **Frank Vision Helmet** is a groundbreaking accessibility device that combines cutting-edge AI, real-time computer vision, and intelligent hardware to provide independence and empowerment to visually impaired individuals. 
-
-Built specifically on the **budget-friendly Raspberry Pi Zero W** ($15), Frank proves that powerful assistive technology doesn't require expensive hardware.
-**⭐Pi02w Only for Budget**
-**⭐⭐⭐ Suggested: Pi 5 or Advanced Drastically improve performance**
+ 
+ 
 ### ✨ What Makes Frank Unique
 
 #### 1. 📞 **Dual-Mode Calling System**

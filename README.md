@@ -3,8 +3,8 @@
 > **AI-Powered Vision Assistant for the Blind & Visually Impaired**  
 
 # Must Read 
--**⭐Pi02w Only for Budget**
--**⭐⭐⭐ Suggested: Pi 5 or Advanced Drastically improve performance**
+- **⭐Pi02w Only for Budget**
+- **⭐⭐⭐ Suggested: Pi 5 or Advanced Drastically improve performance**
  
 ## Project Overview
 

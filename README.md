@@ -3,7 +3,7 @@
 > **AI-Powered Vision Assistant for the Blind & Visually Impaired**  
 
 
-> **Must Read**  
+# Must Read 
 ## Project Overview
 
 **Frank Vision Helmet** is a groundbreaking accessibility device that combines cutting-edge AI, real-time computer vision, and intelligent hardware to provide independence and empowerment to visually impaired individuals. 

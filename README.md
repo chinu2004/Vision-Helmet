@@ -33,11 +33,9 @@
 - **Cost-Effective**: Passive cooling reduces battery drain
 - **Improved Performance**: Maintains optimal Pi Zero W operating temperature
 
-#### 4. 🎯 **Real-Time Vision Processing**
-- Scene description using Google Gemini 2.0 Flash AI
-- Text reading from screens, papers, and signs
-- Real-time object and color identification
-- Optimized for Raspberry Pi Zero W performance
+#### 4. 🎯 **Future Enhancement**
+- 360 degreee camera for high end accessibility
+- optimized battery and storages
  
 ---
 
@@ -57,15 +55,6 @@
 **Contain Prototype images**
 - images of vision helmet
  
-
-#### **images**
-**Visual guides and diagrams**
-- Hardware assembly photographs
-- System architecture diagrams
-- Cooling system thermal layouts
-- Face recognition pipeline visualization
-- LED indicator reference images
-
 ---
  
 ## 🎯 Specifications
